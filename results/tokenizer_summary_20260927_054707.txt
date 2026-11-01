@@ -1,0 +1,63 @@
+======================================================================
+PHASE 3 — TOKENIZER EXTENSION RESULTS
+======================================================================
+
+Timestamp: 20260927_054707
+Base model: facebook/nllb-200-distilled-600M
+
+1. ORIGINAL FERTILITY
+   Dagbani : 1.696 tokens/word
+   English : 1.312 tokens/word
+
+2. NEW TOKENS ADDED
+   Number of new tokens selected : 3000
+   Final vocabulary size         : 259205
+   Language code added           : dag_Latn
+
+3. NEW FERTILITY (after extension)
+   Dagbani : 1.237 tokens/word
+   Improvement : 0.459 tokens/word reduction
+
+4. SAMPLE OF NEWLY ADDED TOKENS (top 40 by frequency)
+    1. ▁zuɣu  (freq=23476)
+    2. ▁zaŋ  (freq=23393)
+    3. ▁ŋun  (freq=22408)
+    4. ▁Yawɛ  (freq=21248)
+    5. ▁Naawuni  (freq=20440)
+    6. ▁yɛli  (freq=17525)
+    7. ▁shɛli  (freq=17399)
+    8. ▁nyɛla  (freq=12705)
+    9. ▁shɛm  (freq=12409)
+   10. ▁niriba  (freq=11174)
+   11. ▁chaŋ  (freq=9489)
+   12. ▁ninvuɣ  (freq=8296)
+   13. ▁shɛb  (freq=8215)
+   14. ▁shɛŋa  (freq=6340)
+   15. ▁Yisa  (freq=6140)
+   16. ▁Amaa  (freq=6084)
+   17. ▁yɛla  (freq=5854)
+   18. ▁zuliya  (freq=5601)
+   19. ▁tooi  (freq=5294)
+   20. ▁puuni  (freq=5129)
+   21. ▁Izraɛlnim  (freq=4862)
+   22. ▁tiŋgbɔŋ  (freq=4576)
+   23. ▁bahi  (freq=4390)
+   24. ▁nyaaŋa  (freq=3887)
+   25. ▁Duuma  (freq=3849)
+   26. ▁shee  (freq=3640)
+   27. ▁zali  (freq=3550)
+   28. ▁yɛtɔɣa  (freq=3527)
+   29. ▁Dinzuɣu  (freq=3444)
+   30. ▁yuli  (freq=3415)
+   31. ▁leei  (freq=3298)
+   32. ▁tooni  (freq=3227)
+   33. ▁jɛmbu  (freq=3155)
+   34. ▁simdi  (freq=3072)
+   35. ▁nimaani  (freq=3071)
+   36. ▁buɣim  (freq=3007)
+   37. zaŋ  (freq=2893)
+   38. ▁pahi  (freq=2850)
+   39. ▁zaɣ  (freq=2801)
+   40. ▁yiɣisi  (freq=2799)
+
+
