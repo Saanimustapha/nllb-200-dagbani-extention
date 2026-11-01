@@ -1,0 +1,12 @@
+======================================================================
+PHASE 6 — TEST SET EVALUATION
+======================================================================
+
+Timestamp     : 20261009_095355
+Adapter       : checkpoints/nllb-dag-lora/final_adapter
+Test size     : 5649
+BLEU          : 11.97
+chrF          : 31.63
+
+Qualitative examples are in the JSON file.
+======================================================================

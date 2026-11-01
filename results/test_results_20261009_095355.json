@@ -1,0 +1,86 @@
+{
+  "timestamp": "20261009_095355",
+  "adapter_path": "checkpoints/nllb-dag-lora/final_adapter",
+  "test_size": 5649,
+  "bleu": 11.97,
+  "chrf": 31.63,
+  "num_beams": 5,
+  "max_length": 96,
+  "examples": [
+    {
+      "dagbani": "Izraɛlnim maa ni daa nya li, ka bɛ bɔhiri taba, Bɔ n-lee bala? Dama bɛ daa bi mi di ni nyɛ shɛli. Ka Musa daa yɛli ba, Yawɛ ni zaŋ bindir shɛli tin ya ni yi di m-bala.",
+      "reference": "When the Israelites saw it, they didn't know what it was and asked each other, What is it? Moses said to them, This is the food that the Lord has given you to eat.",
+      "prediction": "When the people saw it, they said to each other, What is this? They didnt know what it was. Moses said to them, This is the food that the Lord has given you to eat."
+    },
+    {
+      "dagbani": "Ka Izraɛl naa maa daa yɛli Jɛhɔshafat, N di pun bi yɛl a ni o bi yɛn yɛli zaɣ viɛlli zaŋ chaŋ m polo naɣila zaɣ biɛɣu kɔŋko.",
+      "reference": "Then Ahab said to Jehoshaphat, See, I told you! This prophet never says anything good about me. He always says something bad.",
+      "prediction": "The king of Egypt said to Jehoshaphat, Didn't I tell you that he won't do anything against me in Jerusalem."
+    },
+    {
+      "dagbani": "A yɛtɔɣa daa taɣiri bɛn tuuri zaana. A daa kpaŋsi bɛn duna ni ka yaa la.",
+      "reference": "Your words helped those who were ready to fall. You gave strength to those who could not stand by themselves.",
+      "prediction": "You took care of those who are weak. You took care of the weak."
+    },
+    {
+      "dagbani": "Zaligu ŋɔ nyɛla niŋgbuŋ dɔr biɛri din nyɛ: saŋkpana.",
+      "reference": "These are the rules for any infection of leprosy.",
+      "prediction": "These are the words of the prophets. They are the words of the prophets."
+    },
+    {
+      "dagbani": "Amaa ka Amazia daa zaɣisi wumbu. Dinzuɣu ka Izraɛl Naa Jɛhɔash daa chaŋ ka o mini Juda Naa Amazia ti zaŋ bɛ nyɔri yo taba tɔbu ni Bɛtishɛmɛshi din be Juda tiŋgbɔŋ ni la.",
+      "reference": "But Amaziah refused to listen. So Jehoash and his troops marched to the town of Beth-Shemesh in Judah to attack Amaziah and his troops.",
+      "prediction": "So Jehoshaphat got up and went to Jerusalem. King Jehoash of Israel went to fight against Judahs King Jehoiakim in the land of Judah."
+    },
+    {
+      "dagbani": "Amaa ka o daa zali sagbana din be zuɣusaa ŋɔ zaligu ka zuɣusaa dunoya daa yooi;.",
+      "reference": "But he spoke to the sky above and commanded its doors to open;.",
+      "prediction": "Then the Lord spoke to the people of Israel, and the Lord said:."
+    },
+    {
+      "dagbani": "Ka Izraɛlnim daa chaŋ ti liri Bɛnjamin zuliya niriba maa n-chɛ ka bɛ tɔbbihi zani Gibia kaman bɛ ni daa pun niŋdi shɛm la.",
+      "reference": "Three days later, the Israelites marched out against the Benjaminites. They lined up for battle against Gibeah as before.",
+      "prediction": "So the Israelites attacked the land of Canaan, and they destroyed the land of Canaan, just as they had planned."
+    },
+    {
+      "dagbani": "ni di chɛ ka sokam zaa ti Bia maa jilima kaman bɛ ni tir o Ba maa jilima shɛm. Ŋunkam bi tiri Bia maa jilima bi tirila o Ba ŋun tim o maa na jilima.",
+      "reference": "God did this so that all people will respect the Son the same as they respect the Father. Anyone who does not respect the Son does not respect the Father. He is the one who sent the Son.",
+      "prediction": "He did this so that everyone would honor the Son as they honor the Father. Whoever does not honor the Son does not honor the Father who sent him."
+    },
+    {
+      "dagbani": "A ni yɛn yɛli ba shɛm m-bɔŋɔ: Chɛ ka n kul kumdi ni nintam yuŋ ni wuntaŋ ni, ka di bi chɛra, dama bɛ ŋme n niriba bɛn be kaman m bipuɣiŋga ŋun ʒi doo maa kurili luhi, ka bɛ nya dan titali.",
+      "reference": "Jeremiah, speak this message to the people of Judah: My eyes fill with tears night and day without stopping. I cry for my virgin daughter, and for my dear people, because someone hit them and crushed them. They have been hurt very badly.",
+      "prediction": "This is what you are to say to them: I have spoken to the people of Israel and to the people of Israel, and it is not right for them to do this. They are my people, and they are like my people. They are like my people. They are like my people, and they are like my people."
+    },
+    {
+      "dagbani": "N Naawuni, tiligim ma n dimnim nuu ni; fam ma bɛn yiɣisi wuɣili n zuɣu la nuu ni bahi.",
+      "reference": "Save me, God! Protect me from enemy attacks!.",
+      "prediction": "My God, rescue me from my enemies; rescue me from those who attack me."
+    },
+    {
+      "dagbani": "Ka bɛ naa ŋun be bɛ sani ni ti kah o nɛma buɣ o bɔɣusapiŋ zuɣu zaawun yuŋ yi, ka bɛ ti chibi gooni voli ka o doli dini yi. O ni ti zaŋ bini pil o nina din ni chɛ ka o nini ku nya tiŋgbani.",
+      "reference": "The leader of Jerusalem will lift his own bag to his shoulders at sunset and leave through a hole that the others have dug in the wall of his house. He will cover his face, so he can't see the land he is leaving.",
+      "prediction": "Their king will be with them. He will pull his sword out of his sleeve. He will be led out of his sleeve. He will cover his eyes with a veil so that he cannot see the light."
+    },
+    {
+      "dagbani": "Ka ti daa yɛl o, Ti ku tooi labi. Ti tizo ŋɔ yi ku dol ti chaŋ, dindina ti ku chaŋ; dama ti tizo maa yi ka ti sani, doo maa nini ku nya ti.",
+      "reference": "We said to our father, We cannot go without our youngest brother. The governor said he will not sell us grain again until he sees our youngest brother.",
+      "prediction": "But we said to him, We cannot go. If our brothers don't go with us, we won't die. If our brothers don't go with us, the man won't see us."
+    },
+    {
+      "dagbani": "O daa bi siɣis omaŋa Yawɛ tooni kaman o ba Manaasa ni daa siɣis omaŋ shɛm la, amaa Amɔn ŋɔ ŋun daa kul tumdila tuumbiɛri pahira.",
+      "reference": "But unlike his father, he did not become humble and turn to the Lord ; he was even more sinful than his father had been.",
+      "prediction": "He did not obey the Lord's commands, as his fathers ancestors did. Instead, he obeyed the Lord's commands."
+    },
+    {
+      "dagbani": "Yawɛ mi ti tɛha, ka di nyɛla din ka buchi.",
+      "reference": "The Lord knows what we think; he knows how senseless our reasoning is.",
+      "prediction": "The Lord has given us life, and it is worthless."
+    },
+    {
+      "dagbani": "Yi yi ti chaŋ ni yi ti tuhi tinsheenima, yin tɔɣisimiya ba suhumahili yɛtɔɣa.",
+      "reference": "When you go to attack a city, you must first offer peace to the people there.",
+      "prediction": "When you go out to fight the Philistines, say goodbye to them."
+    }
+  ]
+}
