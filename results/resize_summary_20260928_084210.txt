@@ -1,0 +1,13 @@
+======================================================================
+MODEL RESIZE + EMBEDDING INITIALIZATION
+======================================================================
+
+Timestamp                 : 20260928_084210
+Local base model          : models/nllb-200-distilled-600M
+Original vocab size       : 256206
+New vocab size            : 259205
+New embeddings initialized: 2999
+Mossi bias weight         : 0.12
+Quantization              : 4-bit NF4
+Saved to                  : models\nllb_dag_resized
+======================================================================
